@@ -1,0 +1,46 @@
+Bahasa Indonesia	Bahasa Arab
+Jangan tidur di shaff depan	لَا تَنَمْ فِي الصَّفِّ الْأَمَامِيِّ
+Kelas tiga di shaff pertama	ٱلْمَرْحَلَةُ ٱلثَّالِثَةُ فِي ٱلصَّفِّ ٱلْأَوَّلِ
+Jangan main lari-lari	لَا تَلْعَبْ بِالْجَرْيِ
+Ambilkan Quranku dong	هَاتِ لِي قُرْآنِي
+Sudah shalat sunnah belum?	هَلْ صَلَّيْتَ السُّنَّةَ؟
+Jangan berisik di masjid	لَا تُزْعِجْ فِي الْمَسْجِدِ
+Jangan salto, nanti roboh	لَا تَقُمْ بِالسَّلْتُو، قَدْ يَسْقُطَ
+Kerja bagus	عَمَلٌ جَيِّدٌ
+Ada buaya	هُنَاكَ تِمْسَاحٌ!
+Ada duit kah?	هَلْ عِنْدَكَ فُلُوس؟
+Izin dulu	اسْتَأْذِنْ أَوَّلًا
+Pergi ke tambang yuk	هَيَّا نَذْهَبْ إِلَى الْمَنْجَمِ
+Tolong ambilkan parfum	مِنْ فَضْلِكَ، أَحْضِرْ لِيَ الْعِطْرَ
+Ngelunjak kali kau	أَنْتَ وَقِحٌ جِدًّا!
+Tolong belikan es	مِنْ فَضْلِكَ، اشْتَرِ لِيَ ثَلْجًا
+Bersihin, kotor nih	نَظِّفْ، إِنَّهُ مُتَّسِخٌ
+Sapu lantainya	اكْنُسِ الْأَرْضَ
+Mana kopiahku?	أَيْنَ قَلَنْسُوَتِي؟
+Nyalakan kipasnya	شَغِّلِ الْمِرْوَحَةَ
+Wih, ngerinya pang	وَاه! إِنَّهُ مُخِيفٌ جِدًّا!
+Nggak ngotak bah	هٰذَا غَيْرُ مَعْقُولٍ!
+Jangan shake es, takut tumpah	لَا تَهُزَّ الثَّلْجَ، قَدْ يَنْسَكِبَ
+Nggak boleh mainan di kamar mandi	لَا يَجُوزُ اللَّعِبُ فِي الْحَمَّامِ
+Kamu sakit kah?	هَلْ أَنْتَ مَرِيضٌ؟
+Santai dong mukanya	هَدِّئْ وَجْهَكَ قَلِيلًا
+Berapa menit lagi adzan?	كَمْ بَقِيَ عَلَى الْأَذَانِ؟
+Wudhu sebelum shalat!	تَوَضَّأْ قَبْلَ الصَّلَاةِ!
+Sana jauh-jauh	ابْتَعِدْ!
+Mana tongkat mimbar	أَيْنَ عَصَا الْمِنْبَرِ؟
+Mic mati	الْمِيكْرُوفُونُ مَطْفَأٌ
+Sajadah rusak	السَّجَّادَةُ مُمَزَّقَةٌ
+Vacum ambal	نَظِّفِ الْفُرُشَ بِالْمِكْنَسَةِ الْكَهْرَبَائِيَّةِ
+Piket masjid	نَوْبَةُ النَّظَافَةِ فِي الْمَسْجِدِ
+Hijab jatuh	السِّتَارَةُ سَقَطَتْ
+Hayooo mimbar rusak	هَيَّهْ! الْمِنْبَرُ مَكْسُورٌ!
+Hayooo sajadah robek	هَيَّهْ! السَّجَّادَةُ مُمَزَّقَةٌ!
+Pakai sarung	ٱلْبَسِ ٱلْإِزَارَ
+Rapiin Quran	رَتِّبِ الْقُرْآنَ
+Nggak boleh ngomong kasar	لَا تَتَكَلَّمْ بِكَلِمَاتٍ بَذِيئَةٍ
+Eh, aku mau cerita sama kalian	أَهْ، أُرِيدُ أَنْ أُحَدِّثَكُمْ بِقِصَّةٍ
+Ambilkan minum nah	أَحْضِرْ لِي شَرَابًا، نَحْ
+Jangan lari-lari	لَا تَجْرِ!
+Isi shaffnya	أَتْمِمُوا الصَّفَّ
+Siapa yang adzan?	مَنْ يُؤَذِّنُ؟
+Jangan freestyle di masjid. Nanti roboh	لَا تَقُمْ بِالْحَرَكَاتِ الْحُرَّةِ فِي الْمَسْجِدِ، قَدْ يَسْقُطَ
