@@ -1,127 +1,31 @@
-Isikan ./aplikasi-mobile/data.json dari table berikut:
+pada ./aplikasi-mobile/harian.json itu berisi dengan mufrodat apa aja di tanggal 1, tanggal 2, sampai tanggal 31. nah datanya itu diambil dari ./aplikasi-mobile/data.json seperti ini:
 
-Mufrodat Maret - April 2026				
-				
-Nomor	Bahasa Indonesia	Bahasa Arab Putra	Bahasa Arab Putri	Pagi
-1	Jangan makan pakai tangan kiri	لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى	لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى	1
-	Kamu jahat, tidak mau bantuin aku	أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي	أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي	2
-	Makan lah pakai piring	كُلْ فِي الصَّحْنِ	كُلِي فِي الصَّحْنِ	3
-	Kepalaku pusing bah	رَأْسِي يُؤْلِمُنِي	رَأْسِي يُؤْلِمُنِي	4
-	Cepetin bagi makanannya	أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ	أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ	5
-2	Apa lauknya?	مَا الْإِدَامُ؟	مَا الْإِدَامُ؟	6
-	Cepetin sudah ada akhwatnya / ikhwannya	أَسْرِعْ، فَقَدْ جَاءَتِ الْأَخَوَاتُ	أَسْرِعِي، فَقَدْ جَاءَ الْإِخْوَانُ	7
-	Siapa yang piket sapu?	مَنْ حَارِسُ الْمَطْعَمِ؟	مَنْ حَارِسَةُ الْمَطْعَمِ؟	8
-	Hijabnya pindah situ	اُنْقُلِ الْحِجَابَ إِلَى هُنَاكَ	اُنْقُلِي الْحِجَابَ إِلَى هُنَاكِ	9
-	Ah, fresh meat	آهِ، لَحْمٌ طَازَجٌ	آهِ، لَحْمٌ طَازَجٌ	10
-3	Kekurangan konsumsi	الطَّعَامُ نَاقِصٌ	الطَّعَامُ نَاقِصٌ	11
-	Jatahku mana?	أَيْنَ حِصَّتِي؟	أَيْنَ حِصَّتِي؟	12
-	Makan apa?	مَاذَا نَأْكُلُ؟	مَاذَا نَأْكُلُ؟	13
-	Ambil aja jatahku	خُذْ حِصَّتِي	خُذِي حِصَّتِي	14
-	Mana sendok nasi?	أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟	أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟	15
-4	Kamu nggak makan?	أَلَا تَأْكُلُ؟	أَلَا تَأْكُلِينَ؟	16
-	Siapa yang ambil makan?	مَنْ أَخَذَ الطَّعَامَ؟	مَنْ أَخَذَ الطَّعَامَ؟	17
-	Makannya sudah datang	جَاءَ الطَّعَامُ	جَاءَ الطَّعَامُ	18
-	Siapa belum makan?	مَنْ لَمْ يَأْكُلْ؟	مَنْ لَمْ تَأْكُلْ؟	19
-	Makan di mana?	أَيْنَ نَأْكُلُ؟	أَيْنَ نَأْكُلُ؟	20
-5	Tolong ambilkan ikan lele aku	مِنْ فَضْلِكَ خُذْ لِي سَمَكَ السِّلُّورِ	مِنْ فَضْلِكِ خُذِي لِي سَمَكَ السِّلُّورِ	21
-	Aku mau makan	أُرِيدُ أَنْ آكُلَ	أُرِيدُ أَنْ آكُلَ	22
-	Siapa yang mau makananku?	مَنْ يُرِيدُ طَعَامِي؟	مَنْ تُرِيدُ طَعَامِي؟	23
-	Lantainya licin	الْأَرْضُ زَلِقَةٌ	الْأَرْضُ زَلِقَةٌ	24
-	Ada sambal kah?	هَلْ تُوجَدُ شَطَّةٌ؟	هَلْ تُوجَدُ شَطَّةٌ؟	25
-6	Enak betul	لَذِيذٌ جِدًّا	لَذِيذٌ جِدًّا	26
-	Makan kok masih hamburan	لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟	لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟	27
-	Tinggal makan berisik betul	الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ	الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ	28
-	Awas kepleset	اِنْتَبِهْ لَا تَنْزَلِقْ	اِنْتَبِهِي لَا تَنْزَلِقِي	29
-	Bagi yang rata	اِقْسِمْ بِالتَّسَاوِي	اِقْسِمِي بِالتَّسَاوِي	30
-7	Lauknya basi	الْإِدَامُ فَاسِدٌ	الْإِدَامُ فَاسِدٌ	31
-	Nasinya habis	نَفِدَ الْأَرُزُّ	نَفِدَ الْأَرُزُّ	
-	Centongnya tenggelam di bawah nasi	مِغْرَفَةُ الْأَرُزِّ غَارِقَةٌ تَحْتَ الْأَرُزِّ	مِغْرَفَةُ الْأَرُزِّ غَارِقَةٌ تَحْتَ الْأَرُزِّ	
-	Siapa yang nggak makan sayur?	مَنْ لَا يَأْكُلُ الْخُضَارَ؟	مَنْ لَا تَأْكُلُ الْخُضَارَ؟	
-	Nasinya belum matang	الْأَرُزُّ لَمْ يَنْضُجْ بَعْدُ	الْأَرُزُّ لَمْ يَنْضُجْ بَعْدُ	
-8	Jangan lama-lama ngambil nasinya	لَا تُطِلْ فِي أَخْذِ الْأَرُزِّ	لَا تُطِيلِي فِي أَخْذِ الْأَرُزِّ	
-	Awas licin, baru dipel	اِنْتَبِهْ، الْأَرْضُ مَبْلُولَةٌ حَدِيثًا	اِنْتَبِهِي، الْأَرْضُ مَبْلُولَةٌ حَدِيثًا	
-	Sendok nasinya masuk parit	مِلْعَقَةُ الْأَرُزِّ سَقَطَتْ فِي الْمَجْرَى	مِلْعَقَةُ الْأَرُزِّ سَقَطَتْ فِي الْمَجْرَى	
-	Tolong, saya keselek sendok	سَاعِدْنِي، كِدْتُ أَخْتَنِقُ	سَاعِدِينِي، كِدْتُ أَخْتَنِقُ	
-	Jangan loncat, nanti gempa bumi	لَا تَقْفِزْ، سَيَحْدُثُ زِلْزَالٌ	لَا تَقْفِزِي، سَيَحْدُثُ زِلْزَالٌ	
-9	Makan buaya	كُلِ التِّمْسَاحَ	كُلِي التِّمْسَاحَ	
-	Minumnya es teh	اِشْرَبْ شَايًا مُثَلَّجًا	اِشْرَبِي شَايًا مُثَلَّجًا	
-	Baksomu di gayung	كُرَاتُ اللَّحْمِ فِي الْمِغْرَفَةِ	كُرَاتُ اللَّحْمِ فِي الْمِغْرَفَةِ	
-	Mau nggak sayurnya?	أَتُرِيدُ الْخُضَارَ؟	أَتُرِيدِينَ الْخُضَارَ؟	
-	Titip bentar ya	أَمْسِكْ هَذَا قَلِيلًا	أَمْسِكِي هَذَا قَلِيلًا	
+"mufrodat": [
+          {
+            "nomor": 1,
+            "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+            "bahasa_arab": "لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى"
+          },
+          {
+            "nomor": 2,
+            "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+            "bahasa_arab": "أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي"
+          },
+          {
+            "nomor": 3,
+            "bahasa_indonesia": "Makan lah pakai piring",
+            "bahasa_arab": "كُلْ فِي الصَّحْنِ"
+          },
+          {
+            "nomor": 4,
+            "bahasa_indonesia": "Kepalaku pusing bah",
+            "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+          },
+          {
+            "nomor": 5,
+            "bahasa_indonesia": "Cepetin bagi makanannya",
+            "bahasa_arab": "أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ"
+          }
+        ]
 
-PUTRA 
-
-Nomor	Nama
-1	Ahmad Abdullah Kholis
-2	Hanif Syaifullah
-3	Ifroyim Habibullah Fatah
-4	Kamil Khairul Azam
-5	Mirza Faeyza Raziq Ramadhan
-6	Muhammad Daffa Abdul Rafi
-7	Muhammad Nizam Ghifari
-8	Nadil Al Fayyadh
-9	Wildan Akhram Pratama
-1	Wildan Habibi Ariyadi
-2	Zidane Al Asytar Syakur
-3	Zufar Lahid Royyan Ashidik
-4	Ibrahim Kholil Muttaqin
-5	Abdullah Umar Al-Hummam
-6	Afkar Mukayyis Al Wahidi
-7	Ammar Azzamul Haq
-8	Fatih Alfaizi Aufa Ramadhan
-9	Khalid Fayyadh Al Muzzammil
-1	Muhammad Alvin Abdurrahman
-2	Muhammad Rizki
-3	Muhammad Rizky Suhaili
-4	Muhammad Sano Darussalam Ro
-5	Muhammad Yusuf Kamil Fahlevi
-6	Thoriq Mubarok Muttaqin
-7	Abdullah Ammar Al Maududi
-8	Abdurrahman Aliefdhafie Zain
-9	Ammar Yafi 'Alaudin Ash Shiddiq
-1	Ghaisan Alfarezal Tsany
-2	Kemal Abudzar Al Ghifari
-3	Muhammad Karim Amrullah
-4	Muhammad Rizky Ramadhan
-5	Umar Abdurrosyid Assary
-
-PUTRI 
-
-Nomor	Nama
-1	Aiko Zahwa syarofana
-2	Aisyah muwahhidah
-3	Aisyah Putri Az Zahra
-4	Amila nahwal Haq
-5	Audrey callysta Fatih
-6	Khanza nur Assyifa
-7	Syifa Salsabila
-8	Dhafia Ramadhiani Azzahra
-9	Halwa Haura Jannaty
-1	Khoirunnisa Ahlam
-2	Niswah Adzkiyah
-3	Sabila Farrah
-4	Aina Talita Zahron
-5	Aisyah Nurul Hafizah
-6	Alifa Zahratun Nisa
-7	Annisa Qurrotu'aini Al Adawiyah
-8	Bilqis
-9	Erina Liyana Zahra
-1	Nur Humaira Safitri
-2	Siti Sofia Azzalea
-3	Zhafira Aqeela Zahra
-
-Yang terutama kuinginkan itu adalah relasi kosakata dengan santrinya
-
-Jadi, kalau misalnya untuk santri dengan nomor 1, yaitu contohnya adalah Aiko Zahwa syarofana (putri), maka mufrodat dia adalah:
-لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى
-أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي
-كُلِي فِي الصَّحْنِ
-رَأْسِي يُؤْلِمُنِي
-أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ
-
-Contohnya lagi santri untuk nomor 7 yaitu Ammar Azzamul Haq (putra), maka mufrodat dia adalah:
-الْإِدَامُ فَاسِدٌ
-نَفِدَ الْأَرُزُّ
-مِغْرَفَةُ الْأَرُزِّ غَارِقَةٌ تَحْتَ الْأَرُزِّ
-مَنْ لَا يَأْكُلُ الْخُضَارَ؟
-الْأَرُزُّ لَمْ يَنْضُجْ بَعْدُ
+		Itu kan berarti tanggal 1 sampai tanggal 5 untuk putra. Nah aku maunya itu 1-31 itu untuk putra dan putri 
