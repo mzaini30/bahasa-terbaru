@@ -1,0 +1,21 @@
+# Android build artifacts
+android/build/
+android/app/build/
+android/.gradle/
+android/app/src/main/res/mipmap-*/
+android/app/src/main/res/drawable-*/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Gradle
+.gradle/
+gradle-app.secure.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+ECHO is off.
