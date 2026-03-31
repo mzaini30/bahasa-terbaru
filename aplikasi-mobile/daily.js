@@ -3,13 +3,12 @@
     try {
       const response = await fetch('harian-baru.json');
       const data = await response.json();
-      const harianData = data.harian_baru;
+      const harianData = Array.isArray(data) ? data : [];
 
       const today = new Date();
       const dayOfMonth = today.getDate();
-      const dayKey = dayOfMonth.toString();
 
-      const dailyData = harianData[dayKey];
+      const dailyData = harianData.filter(item => item.tanggal === dayOfMonth);
 
       const currentDateElement = document.getElementById('current-date');
       const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
@@ -17,7 +16,7 @@
 
       const container = document.getElementById('daily-mufrodat');
 
-      if (!dailyData) {
+      if (dailyData.length === 0) {
         container.innerHTML = `
           <div class="no-results">
             <p>Data mufrodat untuk hari ini tidak tersedia</p>
@@ -28,12 +27,12 @@
 
       container.innerHTML = `
         <div class="daily-group">
-          ${dailyData.mufrodat.map((item) => {
+          ${dailyData.map((item) => {
             return `
               <div class="daily-item">
-                <div class="daily-number">${item.nomor}</div>
-                <div class="daily-arabic">${item.mufrodat_putra}</div>
-                <div class="daily-arabic">${item.mufrodat_putri}</div>
+                <div class="daily-number">${item.tanggal}</div>
+                <div class="daily-arabic">${item.bahasa_arab_putra}</div>
+                <div class="daily-arabic">${item.bahasa_arab_putri}</div>
                 <div class="daily-indonesia">${item.terjemah}</div>
               </div>
             `;

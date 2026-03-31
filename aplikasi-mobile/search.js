@@ -6,9 +6,13 @@
       const response = await fetch('data.json');
       const data = await response.json();
       const mufrodatData = data.mufrodat_maret_april_2026;
-      
-      if (mufrodatData && mufrodatData.putra) {
-        santriData = mufrodatData.putra;
+
+      // Load both putra and putri data
+      if (mufrodatData) {
+        santriData = [
+          ...(mufrodatData.putra || []),
+          ...(mufrodatData.putri || [])
+        ];
       }
     } catch (error) {
       console.error('Error loading santri data:', error);
