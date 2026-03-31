@@ -1,0 +1,1740 @@
+{
+  "harian": {
+    "1": {
+      "putra": [
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلْ فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلِي فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ"
+        }
+      ]
+    },
+    "2": {
+      "putra": [
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعْ، فَقَدْ جَاءَتِ الْأَخَوَاتُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِ الْحِجَابَ إِلَى هُنَاكَ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعِي، فَقَدْ جَاءَ الْإِخْوَانُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسَةُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِي الْحِجَابَ إِلَى هُنَاكِ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        }
+      ]
+    },
+    "3": {
+      "putra": [
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذْ حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذِي حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        }
+      ]
+    },
+    "4": {
+      "putra": [
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلُ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ يَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلِينَ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ تَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        }
+      ]
+    },
+    "5": {
+      "putra": [
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكَ خُذْ لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ يُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكِ خُذِي لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ تُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        }
+      ]
+    },
+    "6": {
+      "putra": [
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهْ لَا تَنْزَلِقْ"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمْ بِالتَّسَاوِي"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهِي لَا تَنْزَلِقِي"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمِي بِالتَّسَاوِي"
+        }
+      ]
+    },
+    "7": {
+      "putra": [
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلْ فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلِي فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        }
+      ]
+    },
+    "8": {
+      "putra": [
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعْ، فَقَدْ جَاءَتِ الْأَخَوَاتُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِ الْحِجَابَ إِلَى هُنَاكَ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعِي، فَقَدْ جَاءَ الْإِخْوَانُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسَةُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِي الْحِجَابَ إِلَى هُنَاكِ"
+        }
+      ]
+    },
+    "9": {
+      "putra": [
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذْ حِصَّتِي"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذِي حِصَّتِي"
+        }
+      ]
+    },
+    "10": {
+      "putra": [
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلُ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ يَأْكُلْ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلِينَ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ تَأْكُلْ؟"
+        }
+      ]
+    },
+    "11": {
+      "putra": [
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكَ خُذْ لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ يُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكِ خُذِي لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ تُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        }
+      ]
+    },
+    "12": {
+      "putra": [
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهْ لَا تَنْزَلِقْ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهِي لَا تَنْزَلِقِي"
+        }
+      ]
+    },
+    "13": {
+      "putra": [
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمْ بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلْ فِي الصَّحْنِ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمِي بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلِي فِي الصَّحْنِ"
+        }
+      ]
+    },
+    "14": {
+      "putra": [
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعْ، فَقَدْ جَاءَتِ الْأَخَوَاتُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسُ الْمَطْعَمِ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعِي، فَقَدْ جَاءَ الْإِخْوَانُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسَةُ الْمَطْعَمِ؟"
+        }
+      ]
+    },
+    "15": {
+      "putra": [
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِ الْحِجَابَ إِلَى هُنَاكَ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِي الْحِجَابَ إِلَى هُنَاكِ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        }
+      ]
+    },
+    "16": {
+      "putra": [
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذْ حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلُ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذِي حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلِينَ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        }
+      ]
+    },
+    "17": {
+      "putra": [
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ يَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكَ خُذْ لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ يُرِيدُ طَعَامِي؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ تَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكِ خُذِي لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ تُرِيدُ طَعَامِي؟"
+        }
+      ]
+    },
+    "18": {
+      "putra": [
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        }
+      ]
+    },
+    "19": {
+      "putra": [
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهْ لَا تَنْزَلِقْ"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمْ بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهِي لَا تَنْزَلِقِي"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمِي بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى"
+        },
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي"
+        }
+      ]
+    },
+    "20": {
+      "putra": [
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلْ فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعْ، فَقَدْ جَاءَتِ الْأَخَوَاتُ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلِي فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        },
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعِي، فَقَدْ جَاءَ الْإِخْوَانُ"
+        }
+      ]
+    },
+    "21": {
+      "putra": [
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِ الْحِجَابَ إِلَى هُنَاكَ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسَةُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِي الْحِجَابَ إِلَى هُنَاكِ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        },
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        }
+      ]
+    },
+    "22": {
+      "putra": [
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذْ حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلُ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذِي حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلِينَ؟"
+        },
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        }
+      ]
+    },
+    "23": {
+      "putra": [
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ يَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكَ خُذْ لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ تَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكِ خُذِي لِي سَمَكَ السِّلُّورِ"
+        },
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        }
+      ]
+    },
+    "24": {
+      "putra": [
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ يُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ تُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        },
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        }
+      ]
+    },
+    "25": {
+      "putra": [
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهْ لَا تَنْزَلِقْ"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمْ بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهِي لَا تَنْزَلِقِي"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمِي بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        },
+        {
+          "nomor": 1,
+          "bahasa_indonesia": "Jangan makan pakai tangan kiri",
+          "bahasa_arab": "لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى"
+        }
+      ]
+    },
+    "26": {
+      "putra": [
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلْ فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 2,
+          "bahasa_indonesia": "Kamu jahat, tidak mau bantuin aku",
+          "bahasa_arab": "أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي"
+        },
+        {
+          "nomor": 3,
+          "bahasa_indonesia": "Makan lah pakai piring",
+          "bahasa_arab": "كُلِي فِي الصَّحْنِ"
+        },
+        {
+          "nomor": 4,
+          "bahasa_indonesia": "Kepalaku pusing bah",
+          "bahasa_arab": "رَأْسِي يُؤْلِمُنِي"
+        },
+        {
+          "nomor": 5,
+          "bahasa_indonesia": "Cepetin bagi makanannya",
+          "bahasa_arab": "أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ"
+        },
+        {
+          "nomor": 6,
+          "bahasa_indonesia": "Apa lauknya?",
+          "bahasa_arab": "مَا الْإِدَامُ؟"
+        }
+      ]
+    },
+    "27": {
+      "putra": [
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعْ، فَقَدْ جَاءَتِ الْأَخَوَاتُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِ الْحِجَابَ إِلَى هُنَاكَ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 7,
+          "bahasa_indonesia": "Cepetin sudah ada akhwatnya / ikhwannya",
+          "bahasa_arab": "أَسْرِعِي، فَقَدْ جَاءَ الْإِخْوَانُ"
+        },
+        {
+          "nomor": 8,
+          "bahasa_indonesia": "Siapa yang piket sapu?",
+          "bahasa_arab": "مَنْ حَارِسَةُ الْمَطْعَمِ؟"
+        },
+        {
+          "nomor": 9,
+          "bahasa_indonesia": "Hijabnya pindah situ",
+          "bahasa_arab": "اُنْقُلِي الْحِجَابَ إِلَى هُنَاكِ"
+        },
+        {
+          "nomor": 10,
+          "bahasa_indonesia": "Ah, fresh meat",
+          "bahasa_arab": "آهِ، لَحْمٌ طَازَجٌ"
+        },
+        {
+          "nomor": 11,
+          "bahasa_indonesia": "Kekurangan konsumsi",
+          "bahasa_arab": "الطَّعَامُ نَاقِصٌ"
+        }
+      ]
+    },
+    "28": {
+      "putra": [
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذْ حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلُ؟"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 12,
+          "bahasa_indonesia": "Jatahku mana?",
+          "bahasa_arab": "أَيْنَ حِصَّتِي؟"
+        },
+        {
+          "nomor": 13,
+          "bahasa_indonesia": "Makan apa?",
+          "bahasa_arab": "مَاذَا نَأْكُلُ؟"
+        },
+        {
+          "nomor": 14,
+          "bahasa_indonesia": "Ambil aja jatahku",
+          "bahasa_arab": "خُذِي حِصَّتِي"
+        },
+        {
+          "nomor": 15,
+          "bahasa_indonesia": "Mana sendok nasi?",
+          "bahasa_arab": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟"
+        },
+        {
+          "nomor": 16,
+          "bahasa_indonesia": "Kamu nggak makan?",
+          "bahasa_arab": "أَلَا تَأْكُلِينَ؟"
+        }
+      ]
+    },
+    "29": {
+      "putra": [
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ يَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكَ خُذْ لِي سَمَكَ السِّلُّورِ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 17,
+          "bahasa_indonesia": "Siapa yang ambil makan?",
+          "bahasa_arab": "مَنْ أَخَذَ الطَّعَامَ؟"
+        },
+        {
+          "nomor": 18,
+          "bahasa_indonesia": "Makannya sudah datang",
+          "bahasa_arab": "جَاءَ الطَّعَامُ"
+        },
+        {
+          "nomor": 19,
+          "bahasa_indonesia": "Siapa belum makan?",
+          "bahasa_arab": "مَنْ لَمْ تَأْكُلْ؟"
+        },
+        {
+          "nomor": 20,
+          "bahasa_indonesia": "Makan di mana?",
+          "bahasa_arab": "أَيْنَ نَأْكُلُ؟"
+        },
+        {
+          "nomor": 21,
+          "bahasa_indonesia": "Tolong ambilkan ikan lele aku",
+          "bahasa_arab": "مِنْ فَضْلِكِ خُذِي لِي سَمَكَ السِّلُّورِ"
+        }
+      ]
+    },
+    "30": {
+      "putra": [
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ يُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 22,
+          "bahasa_indonesia": "Aku mau makan",
+          "bahasa_arab": "أُرِيدُ أَنْ آكُلَ"
+        },
+        {
+          "nomor": 23,
+          "bahasa_indonesia": "Siapa yang mau makananku?",
+          "bahasa_arab": "مَنْ تُرِيدُ طَعَامِي؟"
+        },
+        {
+          "nomor": 24,
+          "bahasa_indonesia": "Lantainya licin",
+          "bahasa_arab": "الْأَرْضُ زَلِقَةٌ"
+        },
+        {
+          "nomor": 25,
+          "bahasa_indonesia": "Ada sambal kah?",
+          "bahasa_arab": "هَلْ تُوجَدُ شَطَّةٌ؟"
+        },
+        {
+          "nomor": 26,
+          "bahasa_indonesia": "Enak betul",
+          "bahasa_arab": "لَذِيذٌ جِدًّا"
+        }
+      ]
+    },
+    "31": {
+      "putra": [
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهْ لَا تَنْزَلِقْ"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمْ بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        }
+      ],
+      "putri": [
+        {
+          "nomor": 27,
+          "bahasa_indonesia": "Makan kok masih hamburan",
+          "bahasa_arab": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟"
+        },
+        {
+          "nomor": 28,
+          "bahasa_indonesia": "Tinggal makan berisik betul",
+          "bahasa_arab": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ"
+        },
+        {
+          "nomor": 29,
+          "bahasa_indonesia": "Awas kepleset",
+          "bahasa_arab": "اِنْتَبِهِي لَا تَنْزَلِقِي"
+        },
+        {
+          "nomor": 30,
+          "bahasa_indonesia": "Bagi yang rata",
+          "bahasa_arab": "اِقْسِمِي بِالتَّسَاوِي"
+        },
+        {
+          "nomor": 31,
+          "bahasa_indonesia": "Lauknya basi",
+          "bahasa_arab": "الْإِدَامُ فَاسِدٌ"
+        }
+      ]
+    }
+  }
+}

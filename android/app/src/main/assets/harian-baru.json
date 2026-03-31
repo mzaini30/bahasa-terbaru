@@ -1,0 +1,188 @@
+[
+  {
+    "tanggal": 1,
+    "bahasa_arab_putra": "لَا تَأْكُلْ بِيَدِكَ الْيُسْرَى",
+    "bahasa_arab_putri": "لَا تَأْكُلِي بِيَدِكِ الْيُسْرَى",
+    "terjemah": "Jangan makan pakai tangan kiri"
+  },
+  {
+    "tanggal": 2,
+    "bahasa_arab_putra": "أَنْتَ شِرِّيرٌ، لَا تُرِيدُ أَنْ تُسَاعِدَنِي",
+    "bahasa_arab_putri": "أَنْتِ شِرِّيرَةٌ، لَا تُرِيدِينَ أَنْ تُسَاعِدِينَنِي",
+    "terjemah": "Kamu jahat, tidak mau bantuin aku"
+  },
+  {
+    "tanggal": 3,
+    "bahasa_arab_putra": "كُلْ فِي الصَّحْنِ",
+    "bahasa_arab_putri": "كُلِي فِي الصَّحْنِ",
+    "terjemah": "Makan lah pakai piring"
+  },
+  {
+    "tanggal": 4,
+    "bahasa_arab_putra": "رَأْسِي يُؤْلِمُنِي",
+    "bahasa_arab_putri": "رَأْسِي يُؤْلِمُنِي",
+    "terjemah": "Kepalaku pusing bah"
+  },
+  {
+    "tanggal": 5,
+    "bahasa_arab_putra": "أَسْرِعْ فِي تَوْزِيعِ الطَّعَامِ",
+    "bahasa_arab_putri": "أَسْرِعِي فِي تَوْزِيعِ الطَّعَامِ",
+    "terjemah": "Cepetin bagi makanannya"
+  },
+  {
+    "tanggal": 6,
+    "bahasa_arab_putra": "مَا الْإِدَامُ؟",
+    "bahasa_arab_putri": "مَا الْإِدَامُ؟",
+    "terjemah": "Apa lauknya?"
+  },
+  {
+    "tanggal": 7,
+    "bahasa_arab_putra": "أَسْرِعْ، فَقَدْ جَاءَتِ الْأَخَوَاتُ",
+    "bahasa_arab_putri": "أَسْرِعِي، فَقَدْ جَاءَ الْإِخْوَانُ",
+    "terjemah": "Cepetin sudah ada akhwatnya / ikhwannya"
+  },
+  {
+    "tanggal": 8,
+    "bahasa_arab_putra": "مَنْ حَارِسُ الْمَطْعَمِ؟",
+    "bahasa_arab_putri": "مَنْ حَارِسَةُ الْمَطْعَمِ؟",
+    "terjemah": "Siapa yang piket sapu?"
+  },
+  {
+    "tanggal": 9,
+    "bahasa_arab_putra": "اُنْقُلِ الْحِجَابَ إِلَى هُنَاكَ",
+    "bahasa_arab_putri": "اُنْقُلِي الْحِجَابَ إِلَى هُنَاكِ",
+    "terjemah": "Hijabnya pindah situ"
+  },
+  {
+    "tanggal": 10,
+    "bahasa_arab_putra": "آهِ، لَحْمٌ طَازَجٌ",
+    "bahasa_arab_putri": "آهِ، لَحْمٌ طَازَجٌ",
+    "terjemah": "Ah, fresh meat"
+  },
+  {
+    "tanggal": 11,
+    "bahasa_arab_putra": "الطَّعَامُ نَاقِصٌ",
+    "bahasa_arab_putri": "الطَّعَامُ نَاقِصٌ",
+    "terjemah": "Kekurangan konsumsi"
+  },
+  {
+    "tanggal": 12,
+    "bahasa_arab_putra": "أَيْنَ حِصَّتِي؟",
+    "bahasa_arab_putri": "أَيْنَ حِصَّتِي؟",
+    "terjemah": "Jatahku mana?"
+  },
+  {
+    "tanggal": 13,
+    "bahasa_arab_putra": "مَاذَا نَأْكُلُ؟",
+    "bahasa_arab_putri": "مَاذَا نَأْكُلُ؟",
+    "terjemah": "Makan apa?"
+  },
+  {
+    "tanggal": 14,
+    "bahasa_arab_putra": "خُذْ حِصَّتِي",
+    "bahasa_arab_putri": "خُذِي حِصَّتِي",
+    "terjemah": "Ambil aja jatahku"
+  },
+  {
+    "tanggal": 15,
+    "bahasa_arab_putra": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟",
+    "bahasa_arab_putri": "أَيْنَ مِلْعَقَةُ الْأَرُزِّ؟",
+    "terjemah": "Mana sendok nasi?"
+  },
+  {
+    "tanggal": 16,
+    "bahasa_arab_putra": "أَلَا تَأْكُلُ؟",
+    "bahasa_arab_putri": "أَلَا تَأْكُلِينَ؟",
+    "terjemah": "Kamu nggak makan?"
+  },
+  {
+    "tanggal": 17,
+    "bahasa_arab_putra": "مَنْ أَخَذَ الطَّعَامَ؟",
+    "bahasa_arab_putri": "مَنْ أَخَذَ الطَّعَامَ؟",
+    "terjemah": "Siapa yang ambil makan?"
+  },
+  {
+    "tanggal": 18,
+    "bahasa_arab_putra": "جَاءَ الطَّعَامُ",
+    "bahasa_arab_putri": "جَاءَ الطَّعَامُ",
+    "terjemah": "Makannya sudah datang"
+  },
+  {
+    "tanggal": 19,
+    "bahasa_arab_putra": "مَنْ لَمْ يَأْكُلْ؟",
+    "bahasa_arab_putri": "مَنْ لَمْ تَأْكُلْ؟",
+    "terjemah": "Siapa belum makan?"
+  },
+  {
+    "tanggal": 20,
+    "bahasa_arab_putra": "أَيْنَ نَأْكُلُ؟",
+    "bahasa_arab_putri": "أَيْنَ نَأْكُلُ؟",
+    "terjemah": "Makan di mana?"
+  },
+  {
+    "tanggal": 21,
+    "bahasa_arab_putra": "مِنْ فَضْلِكَ خُذْ لِي سَمَكَ السِّلُّورِ",
+    "bahasa_arab_putri": "مِنْ فَضْلِكِ خُذِي لِي سَمَكَ السِّلُّورِ",
+    "terjemah": "Tolong ambilkan ikan lele aku"
+  },
+  {
+    "tanggal": 22,
+    "bahasa_arab_putra": "أُرِيدُ أَنْ آكُلَ",
+    "bahasa_arab_putri": "أُرِيدُ أَنْ آكُلَ",
+    "terjemah": "Aku mau makan"
+  },
+  {
+    "tanggal": 23,
+    "bahasa_arab_putra": "مَنْ يُرِيدُ طَعَامِي؟",
+    "bahasa_arab_putri": "مَنْ تُرِيدُ طَعَامِي؟",
+    "terjemah": "Siapa yang mau makananku?"
+  },
+  {
+    "tanggal": 24,
+    "bahasa_arab_putra": "الْأَرْضُ زَلِقَةٌ",
+    "bahasa_arab_putri": "الْأَرْضُ زَلِقَةٌ",
+    "terjemah": "Lantainya licin"
+  },
+  {
+    "tanggal": 25,
+    "bahasa_arab_putra": "هَلْ تُوجَدُ شَطَّةٌ؟",
+    "bahasa_arab_putri": "هَلْ تُوجَدُ شَطَّةٌ؟",
+    "terjemah": "Ada sambal kah?"
+  },
+  {
+    "tanggal": 26,
+    "bahasa_arab_putra": "لَذِيذٌ جِدًّا",
+    "bahasa_arab_putri": "لَذِيذٌ جِدًّا",
+    "terjemah": "Enak betul"
+  },
+  {
+    "tanggal": 27,
+    "bahasa_arab_putra": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟",
+    "bahasa_arab_putri": "لِمَاذَا الطَّعَامُ مُتَنَاثِرٌ هَكَذَا؟",
+    "terjemah": "Makan kok masih hamburan"
+  },
+  {
+    "tanggal": 28,
+    "bahasa_arab_putra": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ",
+    "bahasa_arab_putri": "الْأَكْلُ فَقَطْ وَمَعَ ذَلِكَ الضَّجِيجُ كَثِيرٌ",
+    "terjemah": "Tinggal makan berisik betul"
+  },
+  {
+    "tanggal": 29,
+    "bahasa_arab_putra": "اِنْتَبِهْ لَا تَنْزَلِقْ",
+    "bahasa_arab_putri": "اِنْتَبِهِي لَا تَنْزَلِقِي",
+    "terjemah": "Awas kepleset"
+  },
+  {
+    "tanggal": 30,
+    "bahasa_arab_putra": "اِقْسِمْ بِالتَّسَاوِي",
+    "bahasa_arab_putri": "اِقْسِمِي بِالتَّسَاوِي",
+    "terjemah": "Bagi yang rata"
+  },
+  {
+    "tanggal": 31,
+    "bahasa_arab_putra": "الْإِدَامُ فَاسِدٌ",
+    "bahasa_arab_putri": "الْإِدَامُ فَاسِدٌ",
+    "terjemah": "Lauknya basi"
+  }
+]

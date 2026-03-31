@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mufrodat Santri</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>Mufrodat Santri</h1>
+    </header>
+
+    <main class="main-content">
+      <!-- Santri Section -->
+      <section id="santri-section" class="section active">
+        <div class="search-container">
+          <input 
+            type="text" 
+            id="search-input" 
+            class="search-input" 
+            placeholder="Cari nama santri..."
+            autocomplete="off"
+          >
+        </div>
+        
+        <div id="search-results" class="search-results"></div>
+        
+        <div id="santri-detail" class="santri-detail"></div>
+      </section>
+
+      <!-- Pagi Section -->
+      <section id="pagi-section" class="section">
+        <div class="daily-header">
+          <h2 id="current-date"></h2>
+          <p class="daily-subtitle">Mufrodat Hari Ini</p>
+        </div>
+        
+        <div id="daily-mufrodat" class="daily-mufrodat"></div>
+      </section>
+    </main>
+
+    <nav class="bottom-nav">
+      <button class="nav-btn active" data-tab="santri">
+        <span class="nav-icon">📚</span>
+        <span class="nav-label">Santri</span>
+      </button>
+      <button class="nav-btn" data-tab="pagi">
+        <span class="nav-icon">🌅</span>
+        <span class="nav-label">Pagi</span>
+      </button>
+    </nav>
+  </div>
+
+  <script src="tabs.js"></script>
+  <script src="search.js"></script>
+  <script src="daily.js"></script>
+</body>
+</html>

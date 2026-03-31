@@ -1,0 +1,1 @@
+# No ProGuard rules needed - ads disabled
