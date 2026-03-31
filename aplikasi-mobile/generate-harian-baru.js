@@ -34,37 +34,31 @@ const mufrodatData = [
   { nomor: 31, bahasa_indonesia: "Lauknya basi", bahasa_arab_putra: "الْإِدَامُ فَاسِدٌ", bahasa_arab_putri: "الْإِدَامُ فَاسِدٌ" }
 ];
 
-const harian = {};
+const harianBaru = {};
 
 for (let day = 1; day <= 31; day++) {
-  const putraList = [];
-  const putriList = [];
+  const mufrodatList = [];
   
   for (let i = 0; i < 5; i++) {
     const mufrodatIndex = ((day - 1) * 5 + i) % 31;
     const mufrodat = mufrodatData[mufrodatIndex];
     
-    putraList.push({
+    mufrodatList.push({
       nomor: mufrodat.nomor,
-      bahasa_indonesia: mufrodat.bahasa_indonesia,
-      bahasa_arab: mufrodat.bahasa_arab_putra
-    });
-    
-    putriList.push({
-      nomor: mufrodat.nomor,
-      bahasa_indonesia: mufrodat.bahasa_indonesia,
-      bahasa_arab: mufrodat.bahasa_arab_putri
+      mufrodat_putra: mufrodat.bahasa_arab_putra,
+      mufrodat_putri: mufrodat.bahasa_arab_putri,
+      terjemah: mufrodat.bahasa_indonesia
     });
   }
   
-  harian[day.toString()] = {
-    putra: putraList,
-    putri: putriList
+  harianBaru[day.toString()] = {
+    tanggal: day,
+    mufrodat: mufrodatList
   };
 }
 
-const output = { harian };
+const output = { harian_baru: harianBaru };
 
-fs.writeFileSync('harian.json', JSON.stringify(output, null, 2));
+fs.writeFileSync('harian-baru.json', JSON.stringify(output, null, 2));
 
-console.log('harian.json generated successfully!');
+console.log('harian-baru.json generated successfully!');
